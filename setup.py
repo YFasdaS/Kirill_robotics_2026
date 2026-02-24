@@ -24,6 +24,8 @@ setup(
     },
     entry_points={
         'console_scripts': [
+            'first_node = solozobov_robots_2026_study.scripts.first_node:main',   # ← добавляем эту строку
+
         ],
     },
 )
