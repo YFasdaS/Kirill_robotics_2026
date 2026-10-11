@@ -22,6 +22,12 @@ setup(
             'pytest',
         ],
     },
+
+    Username for 'https://github.com': YFasdaS
+Password for 'https://YFasdaS@github.com': 
+remote: Invalid username or token. Password authentication is not supported for Git operations.
+fatal: Authentication failed for 'https://github.com/YFasdaS/ROS_labs.git/'
+
     entry_points={
         'console_scripts': [
             'first_node = solozobov_robots_2026_study.scripts.first_node:main',   # ← добавляем эту строку
