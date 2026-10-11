@@ -1,5 +1,5 @@
 from setuptools import find_packages, setup
-
+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
 package_name = 'study_pkg'
 
 setup(
